@@ -15,5 +15,5 @@ adopting microservices and dynamic cloud based infrastructure.
 
 - 🔭 I’m currently working within ☁️ building 🐳 containers and hosting using ☸️ kubernetes
 - 🌱 I’m currently learning all things HashiCorp
-- 📫 [https://bondarewicz.com](https://bondarewicz.com)
-- ⚡ [https://api.bondarewicz.com/v1/](https://github.com/bondarewicz/api)
+- 📫 [com](https://bondarewicz.com)
+- ⚡ [api](https://github.com/bondarewicz/api)
