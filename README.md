@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**bondarewicz/bondarewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Łukasz, web developer. 
 
-Here are some ideas to get you started:
+With over a decade of professional experience, 
+I’ve helped rethink, prototype & develop products
+for the smallest of small startups, to some of the most innovative 
+software as a service solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm enthusiastic about continuous integration & delivery, devops,
+test & behaviour driven development in agile environments, 
+highly available distributed solutions,
+adopting microservices and dynamic cloud based infrastructure.
+
+
+- 🔭 I’m currently working within ☁️ building 🐳 containers and hosting using ☸️ kubernetes
+- 🌱 I’m currently learning all things HashiCorp
+- 📫 [https://bondarewicz.com](https://bondarewicz.com)
+- ⚡ [https://api.bondarewicz.com/v1/](https://github.com/bondarewicz/api)
