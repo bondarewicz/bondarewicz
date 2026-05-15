@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Łukasz, 15+ years in tech and still loving every challenge it throws my way.
+I'm Łukasz, currently shipping a multi-agent framework for agentic workloads and eval testing. check out [dreamteam](https://github.com/bondarewicz/dreamteam)
 
 
 - 🔭 Working within ☁️ building 🐳 containers and hosting using ☸️ kubernetes
